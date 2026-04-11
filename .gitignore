@@ -1,0 +1,5 @@
+.env
+*.pem
+*.ppk
+apuestas.db
+__pycache__/
