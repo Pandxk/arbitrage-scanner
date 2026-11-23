@@ -3,3 +3,7 @@
 *.ppk
 apuestas.db
 __pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
